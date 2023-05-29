@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Manan Patel.
+🔭 I’m currently working on Mobile app development.
+🌱 I’m currently learning React Native.
+
 <!--
 **manan711/manan711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manan711)](https://github.com/manan711/github-readme-stats)
