@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manan711)](https://github.com/manan711/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manan711&theme=tokyonight)](https://git.io/streak-stats)
+<!-- [![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manan711)](https://github.com/manan711/github-readme-stats)
+-->
