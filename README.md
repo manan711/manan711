@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I am Manan Patel.
+
 🔭 I’m currently working on Mobile app development.
+
 🌱 I’m currently learning React Native.
 
 <!--
